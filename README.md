@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://github.com/mpcgt/saguenay/blob/main/src/assets/images/logo/saguenay_white_letters.png?raw=true" alt="Logo" />
+</div>
 
 # Saguenay social network documentation
 
