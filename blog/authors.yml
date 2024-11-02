@@ -1,0 +1,10 @@
+max:
+  name: Max
+  title: Saguenay Developer & Creator
+  url: https://mpcgt.vercel.app/
+  image_url: https://github.com/mpcgt.png
+  page:
+    permalink: '/all-max-articles'
+  socials:
+    github: mpcgt
+    newsletter: https://mpcgt.vercel.com/
